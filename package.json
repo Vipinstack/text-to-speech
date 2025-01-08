@@ -1,0 +1,43 @@
+{
+  "name": "text-to-speech",
+  "version": "1.0.0",
+  "description": "This Node.js package is open source and uses ElevenLabs' Text to Speech API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vipinstack/text-to-speech.git"
+  },
+  "keywords": [
+    "elevenlabs",
+    "elevenlabs-js",
+    "elevenlabs api",
+    "elevenlabs node",
+    "elevenlabsjs",
+    "text to speech nodejs",
+    "text to speech",
+    "text to speech api",
+    "text to speech elevenlabs",
+    "tts",
+    "tts api",
+    "tts nodejs",
+    "tts elevenlabs",
+    "ai elevenlabs",
+    "ai voice",
+    "ai tts api",
+    "ai tts nodejs",
+    "ai voice api",
+    "ai voice nodejs",
+    "voice clone",
+    "voice clone ai"
+  ],
+  "author": "Vipin Singh Chauhan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Vipinstack/text-to-speech/issues"
+  },
+  "homepage": "https://github.com/Vipinstack/text-to-speech#readme"
+}

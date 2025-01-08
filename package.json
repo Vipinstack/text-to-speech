@@ -1,5 +1,5 @@
 {
-  "name": "text-to-speech",
+  "name": "@elevenlabs/text-to-speech",
   "version": "1.0.0",
   "description": "This Node.js package is open source and uses ElevenLabs' Text to Speech API.",
   "main": "index.js",

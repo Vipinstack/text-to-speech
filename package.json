@@ -1,5 +1,5 @@
 {
-  "name": "@ai/text-to-speech",
+  "name": "text-to-audio-converter",
   "version": "1.1.1",
   "description": "This Node.js package is open source and uses ElevenLabs' Text to Speech API.",
   "main": "index.js",

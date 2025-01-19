@@ -33,14 +33,14 @@ This open-source Node.js package provides a simple and efficient way to interact
 Install text-to-speech with npm
 
 ```bash
-  npm install @eleven-app/text-to-speech
+  npm install text-to-audio-converter
 
 ```
     
 ## Usage/Examples
 
 ```javascript
-import { setApiKey } from '@eleven-app/text-to-speech';
+import { setApiKey } from 'text-to-audio-converter';
 
 // Set your API key for Eleven Labs Text-to-Speech
 setApiKey('your_api_key_here');
@@ -48,7 +48,7 @@ setApiKey('your_api_key_here');
 ```
 
 ```javascript
-import { textToSpeech } from '@eleven-app/text-to-speech';
+import { textToSpeech } from 'text-to-audio-converter';
 
 // Generate speech from text
 textToSpeech("Voice_id", "Hello, world!", "eleven_multilingual_v2", "customPath")
@@ -61,7 +61,7 @@ textToSpeech("Voice_id", "Hello, world!", "eleven_multilingual_v2", "customPath"
 ```
 
 ```javascript
-import { VoiceListing } from '@eleven-app/text-to-speech';
+import { VoiceListing } from 'text-to-audio-converter';
 
 // Retrieve available voice listings
 VoiceListing()

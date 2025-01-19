@@ -1,9 +1,10 @@
 {
-  "name": "@eleven-app/text-to-speech",
-  "version": "1.0.1",
+  "name": "@ai/text-to-speech",
+  "version": "1.1.1",
   "description": "This Node.js package is open source and uses ElevenLabs' Text to Speech API.",
   "main": "index.js",
   "type": "module",
+  "private": false,
   "scripts": {
     "test": "npm run test"
   },
